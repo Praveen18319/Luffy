@@ -6,4 +6,6 @@ Created for the practise purpose.
 
 Thanks.
 
-This is my first Change from Git.
+This is my first Change from local to Git.
+
+This is my Second change from Git to local.
